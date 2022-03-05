@@ -24,8 +24,8 @@ ansible 2.9.23
 #### 2. Project directory: 
 This will become the working directory where we execute the ansible-playbook command and create all files for the project.
 ```html
-   #mkdir mariadb-project
-   #cd mariadb-project/
+   # mkdir mariadb-project
+   # cd mariadb-project/
 ```
 
 #### 3. Inventory: 
