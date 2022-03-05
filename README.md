@@ -12,7 +12,7 @@ The machine where Ansible is installed and from where all tasks and playbooks wi
   #amazon-linux-extras install ansible2 -y
 ```
 ```html
- # ansible --version
+  # ansible --version
  ansible 2.9.23
   config file = /etc/ansible/ansible.cfg
   configured module search path = [u'/root/.ansible/plugins/modules', u'/usr/share/ansible/plugins/modules']
